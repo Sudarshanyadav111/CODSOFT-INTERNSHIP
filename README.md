@@ -52,5 +52,6 @@ Future Enhancements
 Landing Page: Add JavaScript interactivity for dynamic effects.
 Calculator: Improve UI/UX with CSS animations and themes.
 Portfolio Website: Enhance responsiveness and add a contact form.
-License
+
+License:
 This project is licensed under the MIT License, allowing learning, modification, and use for personal projects.
