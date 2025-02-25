@@ -26,7 +26,7 @@ CSS – Styling for a visually appealing design.
 JavaScript – Adding interactivity (Used in the calculator).
 Installation & Usage
 Clone the Repository
-git clone https://github.com/Thulasi1206/CODSOFT-TASKS.git
+git clone https://github.com/Sudarshanyadav111/CODSOFT-INTERNSHIP
 cd CODSOFT-TASKS
 Run the Files
 Open Landingpage1.html, calculator.html, or portfolio.html in a browser.
