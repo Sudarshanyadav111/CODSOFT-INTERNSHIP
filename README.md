@@ -49,7 +49,8 @@ These projects follow **best coding practices**, making them ideal for learning 
 
 Clone the Repository  
 To download the repository, run the following command in your terminal:  ```sh
-git clone https://github.com/Sudarshanyadav111/CODSOFT-INTERNSHIP.gitcd CODSOFT-INTERNSHIP
+git clone https://github.com/Sudarshanyadav111/CODSOFT-INTERNSHIP.git 
+cd CODSOFT-INTERNSHIP
 
 ---
 
